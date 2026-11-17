@@ -1,4 +1,5 @@
 # ⚡ Finomaly | GSTGuard — AI Anomaly Detection & Risk Intelligence
+Context-aware ML and rule-based anomaly detection that flags suspicious GST invoices and filing mismatches before they become penalties.
 
 <div align="center">
 
